@@ -1,0 +1,417 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.jpg",
+    "title": "Kavaya <br /> nelvine",
+    "subTitle": "Hello, I’m",
+    "designation": "Software Engineer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Kavaya nelvine",
+    "subtitle": "Software Engineer",
+    "text": "I’m Nelvine (Kavaya) Isubire, a Software Engineer and Implementation Engineer based in Nairobi, Kenya. I build reliable web and mobile solutions using React, Node.js, and Python, and I enjoy turning real-world problems into scalable, secure systems. Currently pursuing a Master’s in Cybersecurity & Digital Forensics, I’m passionate about cloud technologies, DevOps, and building secure software that actually makes an impact.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "Nov 01, 2004"
+      },
+      {
+        "title": "Phone",
+        "info": "+254 748 609 410"
+      },
+      {
+        "title": "Email",
+        "info": "nelvinekavaya@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Upperhill, Nairobi"
+      },
+      {
+        "title": "Language",
+        "info": "English, Swahili, Chinese(Novice)"
+      },
+      {
+        "title": "Software Engineer",
+        "info": "Available"
+      },
+            {
+        "title": "Systems Implementer",
+        "info": "Available"
+      },
+            {
+        "title": "AI/Data analyst",
+        "info": "Available"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Web & Application Development",
+        "text": "Design and development of responsive, scalable web applications using modern frameworks(React, Node.js, and Python) focused on perfomance, usability and scalability.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "Cybersecurity & Secure Software Engineering",
+        "text": "Implementation of security best practices, access controls, and secure application design to protect systems and sensitive data.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "Cloud & DevOps Engineering",
+        "text": "Envirenment setup, CI/CD pipelines, environment configuration,Containerization and automation to support scalable and reliable deployments.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "API Development, Backend Development & System Automation",
+        "text": "Development of RESTful APIs and automated workflows to enable seamless communication between systems and services.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "Systems Implementation & Integration",
+        "text": "Deployment, configuration, and integration of enterprise systems, including data migration and third-party system mapping.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Technical Documentation & Training",
+        "text": "Creation of professional documentation and user guides, plus technical training for teams and clients.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "A snapshot of the technical skills I use to design, build, deploy, and secure modern software systems.",
+    "text": "I work across the full software development lifecycle — from designing and developing web applications to integrating enterprise systems and deploying secure solutions. My skill set combines modern web technologies, backend development, databases, cloud tools, and security best practices, allowing me to deliver reliable systems that solve real-world problems.",
+    "skills": [
+      {
+        "title": "React.js / Fronted Develoment",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Node.js / Backend APIs",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Cloud and DevOps (Docker / Kubernetes)",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "JavaScript (ES6+) / Next.js / Three.js / TailWindCSS",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Machine Learning (Tensorflow / Pytorch)",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Database Management",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Cybersecurity Fundamentals",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+ "portfolioData": {
+  "portfolioItems": [
+    {
+      "imgLink": "/images/portfolio/nyathiru_motel.png",
+      "imgLinkLg": "/images/portfolio/nyathiru_motel_lg.png",
+      "title": "Nyathiru Motel Website",
+      "subTitle": "Web Development / Booking System",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "imgLink": "/images/portfolio/system_engineering_dev.png",
+      "imgLinkLg": "/images/portfolio/system_engineering_dev_lg.png",
+      "title": "System Engineering Dev",
+      "subTitle": "Shell Scripts / Dev Tools",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "imgLink": "/images/portfolio/hotel.png",
+      "imgLinkLg": "/images/portfolio/hotel_lg.png",
+      "title": "Hotel Management System",
+      "subTitle": "Python AI Project",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "1100"
+    },
+    {
+      "imgLink": "/images/portfolio/mamusda_church.png",
+      "imgLinkLg": "/images/portfolio/mamusda_church_lg.png",
+      "title": "Mamusda Church Website",
+      "subTitle": "Web Development / Community Platform",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "1300"
+    },
+    {
+      "imgLink": "/images/portfolio/advanced_sms.png",
+      "imgLinkLg": "/images/portfolio/advanced_sms_lg.png",
+      "title": "Advanced SMS System",
+      "subTitle": "JavaScript Messaging System",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "imgLink": "/images/portfolio/e_commerce.png",
+      "imgLinkLg": "/images/portfolio/e_commerce_lg.png",
+      "title": "E-Commerce Platform",
+      "subTitle": "Online Store / Web Dev",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "800"
+    }
+  ]
+
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.png",
+        "designation": "kavaya",
+        "date": "01-02-2026",
+        "title": "Understanding OWASP Top 10 Web Application Vulnerabilities ",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.png",
+        "designation": "kavaya",
+        "date": "18-02-2026",
+        "title": "Adversarial Machine Learning: Security Implications for Critical Systems",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.png",
+        "designation": "kavaya",
+        "date": "24-02-2026",
+        "title": "Risk-Based Regulation of AI Systems (EU AI Act vs NIST AI RMF)",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog4.jpg",
+        "designation": "kavaya",
+        "date": "25-02-2026",
+        "title": "Prompt Injection and LLM Security Risks",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog5.jpg",
+        "designation": "kavaya",
+        "date": "10-02-2026",
+        "title": "Designing a Secure-by-Design AI Framework",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog6.jpg",
+        "designation": "kavaya",
+        "date": "08-02-2026",
+        "title": "Algorithmic Accountability and Cybersecurity: A Governance Framework",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+  
+        "title": "Augustine Wekesa",
+        "designation": "Executive Director Datamorphics Labs",
+        "text": "Kavaya designed and developed a full system for DataMorphics Labs, delivering a professional, responsive, and user-friendly platform that showcases our services and projects effectively.!"
+      },
+  {
+
+    "title": "John Mwangi",
+    "designation": "Owner - Nyathiru Motel",
+    "text": "The website developed by Kavaya transformed our online presence. Guests can now book rooms easily, view menus, and take virtual tours. We’ve seen a noticeable increase in bookings since online launch!"
+  },
+      {
+
+        "title": "Carolyne Chepchumba",
+        "designation": "Rhumba Cafe restaurant owner",
+        "text": "I am the owner of Rhumba Café, and she built our hotel management system with great professionalism and skill. The system improved our reservations, billing, and overall operations, making our workflow more efficient. They were reliable, responsive, and attentive to our needs. I highly recommend their services."
+      },
+      {
+
+        "title": "Dr. Ope Justus",
+        "designation": "Head of Department, CIS - Maasai Mara University",
+        "text": "During his studies, Kavaya showed strong problem-solving and development skills, particularly in AI/ML and full-stack projects, including his award-winning hackathon solutions!"
+      }
+
+    ]
+  },
+ "resumeData": {
+  "experienceTitle": "Experience",
+  "experience": [
+    {
+      "title": "Software Implementer - Core & Digital Banking Solutions",
+      "duration": "Aug 2025 - Present",
+      "subTitle": "NLS Tech Solutions",
+      "text": "Supported core banking and integrated digital banking solutions, including fintech platforms such as CM(channel manager), NQUEST and KOLLECT PRO. Provided production support for microservices and APIs, assisted with integrations, transaction monitoring, incident resolution, and system stability, collaborating with DevOps and banking operations teams."
+    },
+    {
+      "title": "Lead Developer & System Implementer | POS System for Cafes/Restaurants",
+      "duration": "Apr 2023 - Jul 2023",
+      "subTitle": "Codverts Systems (Intern/Volunteer)",
+      "text": "Developed and maintained a robust POS system using Laravel for cafe and restaurant operations. Implemented order management, inventory tracking, and CRM modules, integrated a new payment gateway, and ensured stability and performance through testing and code reviews."
+    },
+    {
+      "title": "Industrial Attachment",
+      "duration": "Apr 2024 - Nov 2024",
+      "subTitle": "SAV-IT Africa",
+      "text": "Gained exposure to enterprise IT infrastructure, DevOps practices, web hosting, application deployment workflows, and version control using Git/GitHub. Applied cybersecurity and digital transformation practices, including secure coding, system hardening, and web/endpoint security awareness."
+    }
+  
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Master of Cybersecurity and Digital Forensics",
+        "duration": "2026 - 2028",
+        "subTitle": "EC-COUNSIL University",
+        "text": "Currently pursuing a Master’s degree focused on cybersecurity operations, digital forensics, incident response, and cybercrime investigation. Building strong technical and analytical skills in securing systems, investigating digital evidence, and responding to modern cyber threats through hands-on labs, case studies, and research."
+      },
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2021 - 2024",
+        "subTitle": "Maasai Mara University",
+        "text": "I graduated with a Second Class Upper Division (GPA 3.9). During my studies, I developed strong skills in software development, AI/ML, and web technologies, completing projects such as a CNN-based Breast Cancer Detection System and an RNN-based Speech Detection System. I also led my team to first place at the 2024 Kenya Inter-University Hackathon with an AI-powered solution addressing climate change in agriculture, showcasing my ability to apply innovative technology to real-world challenges."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visit my social profile and get connected",
+    "text": "I enjoy turning innovative ideas into practical systems. Feel free to reach out to discuss projects, collaborations, or opportunities."
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/nelvine939?utm_source=qr&igsh=MTl3Nnh5cm04a3RnMQ%3D%3D"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "https://www.behance.net/nelvinekavaya"
+    },
+    {
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/Xnelliek"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/nelvine-isubire-539412278/"
+    }
+  ]
+}
